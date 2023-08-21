@@ -4,3 +4,5 @@ Sample
 -Tiga
 -Empat
 -Lima
+-Enam
+-Tujuh
